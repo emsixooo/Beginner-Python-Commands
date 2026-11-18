@@ -1,2 +1,2 @@
 # Beginner-Python-Commands
-Python commands for beginners
+This repository includes some Python commands for beginners wanting to learn Python syntax. This includes basic features of Python such as printing, variables, and data types. 
